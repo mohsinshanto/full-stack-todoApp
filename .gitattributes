@@ -1,0 +1,7 @@
+# Ensure all text files use LF in the repo but convert to CRLF on Windows
+* text=auto
+*.js text
+*.json text
+*.md text
+*.css text
+*.html text

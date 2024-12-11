@@ -1,0 +1,21 @@
+# Root-level ignores
+.env
+
+# Node dependencies
+backend/node_modules/
+frontend/my-app/node_modules/
+
+# Logs
+*.log
+
+# Build files (if any)
+frontend/build/
+frontend/dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor configurations
+.vscode/
+.idea/
